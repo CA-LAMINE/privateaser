@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c1531d82-0512-4910-9a04-1f7d82104f11" name="Default Changelist" comment="Course 2 - Suit up your apps&#10;Step 7 - Using Navigation Tabs in Card">
+    <list default="true" id="c1531d82-0512-4910-9a04-1f7d82104f11" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
     </list>
@@ -33,16 +33,16 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="972" />
+          <entry key="html" value="1113" />
           <entry key="js" value="1" />
-          <entry key="txt" value="81" />
+          <entry key="txt" value="128" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="972" />
+          <entry key="HTML" value="1113" />
           <entry key="JavaScript" value="1" />
-          <entry key="PLAIN_TEXT" value="81" />
+          <entry key="PLAIN_TEXT" value="128" />
         </counts>
       </usages-collector>
     </session>
@@ -65,8 +65,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/public/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+            <state relative-caret-position="187">
+              <caret line="11" column="49" selection-start-line="11" selection-start-column="49" selection-end-line="11" selection-end-column="49" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -126,7 +126,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547561076525" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547561295979" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -153,7 +153,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1547556976368</updated>
-      <workItem from="1547556977850" duration="4092000" />
+      <workItem from="1547556977850" duration="4304000" />
     </task>
     <task id="LOCAL-00001" summary="all steps done">
       <created>1547557031084</created>
@@ -197,11 +197,18 @@
       <option name="project" value="LOCAL" />
       <updated>1547559715901</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Course 2 - Suit up your apps&#10;Step 8 - Image At Bottom">
+      <created>1547561128156</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1547561128156</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4092000" />
+    <option name="totallyTimeSpent" value="4304000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="679" y="0" width="695" height="878" extended-state="0" />
@@ -250,7 +257,8 @@
     <MESSAGE value="Course 2 - Suit up your apps&#10;Step 5 - Card With Text Alignment" />
     <MESSAGE value="Course 2 - Suit up your apps&#10;Step 5 - Adding Header and Footer" />
     <MESSAGE value="Course 2 - Suit up your apps&#10;Step 7 - Using Navigation Tabs in Card" />
-    <option name="LAST_COMMIT_MESSAGE" value="Course 2 - Suit up your apps&#10;Step 7 - Using Navigation Tabs in Card" />
+    <MESSAGE value="Course 2 - Suit up your apps&#10;Step 8 - Image At Bottom" />
+    <option name="LAST_COMMIT_MESSAGE" value="Course 2 - Suit up your apps&#10;Step 8 - Image At Bottom" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/public/index.js">
@@ -266,8 +274,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/public/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        <state relative-caret-position="187">
+          <caret line="11" column="49" selection-start-line="11" selection-start-column="49" selection-end-line="11" selection-end-column="49" />
           <folding>
             <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
